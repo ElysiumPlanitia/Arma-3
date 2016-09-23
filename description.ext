@@ -1,0 +1,6 @@
+author = "DnA, Lakotiz & LSK";
+
+class CfgFunctions
+{
+	#include "CfgFunctions.hpp"
+};
